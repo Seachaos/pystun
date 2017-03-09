@@ -10,7 +10,7 @@ def main():
 
     setup(
         name='pystun',
-        version=stun.__version__,
+        version='0.0.1',
         packages=find_packages(),
         zip_safe=False,
         license='MIT',
